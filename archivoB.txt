@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Aqui ya no hay nada
-=======
+
 Este comentario creara un conflicto archivoB
->>>>>>> df4e39164157c4908cd8ad6d892d308e7d5c3025
