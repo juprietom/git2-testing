@@ -1,2 +1,4 @@
 Esto es un archivo A
-Este comentario creara un conflicto
+
+Modificando para crear un conflicto en este archivo
+
