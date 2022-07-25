@@ -1,1 +1,2 @@
 Esto es un archivo A
+Modificando para crear un conflicto en este archivo
