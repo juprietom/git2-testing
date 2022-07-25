@@ -1,1 +1,2 @@
 Esto es un archivo A
+Este comentario creara un conflicto
