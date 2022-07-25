@@ -1,1 +1,2 @@
+This file has been modify.
 This is another file but it's B
